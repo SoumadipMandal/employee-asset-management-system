@@ -117,7 +117,7 @@ const LoginPage: React.FC = () => {
                         <BusinessRoundedIcon sx={{ fontSize: 32 }} />
                     </Box>
                     <Typography variant="h5" fontWeight={700} gutterBottom>
-                        AssetPro
+                        AssetPro123
                     </Typography>
                     <Typography variant="body2" sx={{ opacity: 0.8 }}>
                         Employee Asset Management System
